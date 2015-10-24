@@ -71,30 +71,22 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.tvargenta" name="[COLOR darkorange]TV Argenta [/COLOR]" version="1.0" provider-name="Alejusar">
+<addon id="plugin.video.tvargenta" name="TVArgenta" version="1.0" provider-name="Alejusar">
   <requires>
-<!--    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
--->
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.requests" />
+    <import addon="plugin.video.youtube" />
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.SportsDevil" optional="true"/>
+	<import addon="plugin.video.p2p-streams" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+        <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[COLOR darkorange]TV Argenta [/COLOR]</summary>
-    <description lang="en"> Televisión Argentina
-	[COLOR green]* VISITA NUESTRA PAGINA  [/COLOR]</description>
+    <summary lang="en">TV Argenta</summary>
+    <description lang="en">[COLOR red][B]TV Argenta[/B][/COLOR] te permitirá ver canales de TV argentinos en [B][COLOR blue]Kodi[/COLOR][/B].</description>
+    <disclaimer lang="en">[B]Queda prohibida la distribución de este addon junto con contenidos multimedia protegidos por derechos de autor.[/B] La vulneración de esta prohibición exonerará de culpa a su autor siendo el único responsable quien lo haya distribuido ilegalmente.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
