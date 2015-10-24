@@ -74,11 +74,12 @@
 <addon id="plugin.video.tvargenta" name="TVArgenta" version="1.0" provider-name="Alejusar">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.requests" />
+ <!--   <import addon="script.module.requests" />
     <import addon="plugin.video.youtube" />
 	<import addon="script.module.youtube.dl" optional="true"/>
 	<import addon="plugin.video.SportsDevil" optional="true"/>
 	<import addon="plugin.video.p2p-streams" optional="true"/>
+-->
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
