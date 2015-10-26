@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!----------------------
+					BIENVENIDO  A ADRYANLIST
+					
+					
+					www.adryanlist.info
+					
+					LISTA DE CANALES PARA KODI
+					
+					
+					
+					
+					
+					1. instalar el Addon AdryanList 
+						Descargar: http://addon.adryanlist.info
+						Mirror Mediafire: http://bit.ly/addonal
+					2.- tambien puedes buscar el addon RobinHood  o Livestreamspro
+						2.1: en el Livestreamspro agregar la url http://adryanlist.info
+					3.- Disfrutar ! 
+					
+					
+					
+					PARA QUE LA LISTA SIGA ACTIVA , APOYAME INVITANDOME UN CAFE 
+					
+					A TRAVES DE UNA DONACION POR PAYPAL
+					
+					
+					a la cuenta adrian.bu@gmail.com
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					AYUDA  , SOPORTE, QUEJAS Y SUGERENCIAS
+					
+					
+					
+					twitter: @adryan
+					fb: adrian.bu
+					whatsapp / line / Telegram / +521 462 123 35 81
+					
+					
+					
+					
+					http://blog.adryanlist.info
+-->
+
+
+
+<items>
+<items_info> <!-- this is opitonal -->
+      <title>Adryan List </title> 
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
+      <fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+      <date>13.02.2015</date>
+      <credits>adryan</credits>
+    </items_info>
+	
+	
+	
+		
+	
+<item>
+<title>            [COLOR white]Donaciones por [COLOR skyblue]PayPal:[/COLOR] [COLOR white]adrian.bu@gmail.com[/COLOR][/COLOR]</title>
+<link>http://adrian.kodistream.info/adryan/in.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+</item>	
+
+
+<item>
+<title>                             [COLOR skyblue][B]PRUEBA ARGENTV [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]</title>
+<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>                     [COLOR deepskyblue]   update: [COLOR yellow]24[/COLOR] • Octubre • 2015[/COLOR]      </title>
+<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] *</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Stalker   [/COLOR] [COLOR skyblue][Nescafe] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/nescafe.xml</externallink>
+</item>
+
+<!---->
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR skyblue][Server 01] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/total.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR skyblue][Solo Disponibes en Mexico] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][ TotalPlay 2 ] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV+   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/stalker001.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/paises.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internaciones[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/inter.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mas Listas Amigas[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
+</item>
+
+
+
+</items>
+
+
