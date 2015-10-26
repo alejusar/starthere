@@ -19,7 +19,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>based on livestreamspro 1.9.3 by Shani y AdryanList by Adrian</summary>
+    <summary>basado en livestreamspro 1.9.3 por Shani y AdryanList por Adryan</summary>
     <description>Lista de canales de Argentinos.</description>
     <platform>all</platform>
   </extension>
