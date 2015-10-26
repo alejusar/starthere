@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+    <channels_info> <!-- this is opitonal -->
+      <title>TVArgenta</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description>Lista de Canales de argentinos  </description>
+       <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+      <date>17.11.2014</date>
+      <credits>adryan@mail.com</credits>
+    </channels_info>
+	
+	
+	
+	
+	
+<!--      <channel>
+    <name>          Argentina</name>
+    <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail>
+    <fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+-->
+    
+    <items>
+                
+<!--			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
+-->
+			
+<item><info>TV Argentina</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]C5N[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]C5N (2)[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue] A24[/COLOR]</title><link>http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]360TV[/COLOR]</title><link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal Rural[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CNN en español[/COLOR]</title><link>http://187.247.255.139/Apple/CNNEspanol1200.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]ARG TV PUBLICA HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]ARG TV PUBLICA SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-180/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]America TV[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]America TV HD 720[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]TeLeFe SD HQ[/COLOR]</title><link>http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 2 Misiones[/COLOR]</title><link>http://190.57.237.214/live/canal.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 29 Ensenada[/COLOR]</title><link>rtmp://panel.dattalive.com/8008/8008</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 Esquel[/COLOR]</title><link>rtmp://streamlky.alsolnet.com/canal4/live</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 HD 720 Jujuy[/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 7 Jujuy mms[/COLOR]</title><link>mms://200.43.187.111/canal7</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 79 San Juan[/COLOR]</title><link>rtmp://painel.serveron.com.br:1935/8162/8162</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Parana[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Salta[/COLOR]</title><link>http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal Rural 1 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL RURAL 2 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link></item>
+
+<item><title>Argentina: America TV</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
+<item><title>Argentina: America TV HD </title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
+<item><title>Argentina: Canal 4 HD </title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
+<item><title>Argentina: Canal 9 Bio Bio HD 720</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link></item>
+<item><title>Argentina: CANAL 26 HD</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
+<item><title>Argentina: EL TRECE </title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
+<item><title>Argentina: El Trece HD </title><link>http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8</link></item>
+<item><title>Argentina: TELEFE HD</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link></item>
+<item><title>Argentina: Telpin Canal 2 HD Pinamar</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link></item>
+<item><title>Argentina: TV PUBLICA HD</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link></item>
+<item>
+	<title>120 AMERICA TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/17916695</page>
+<referer> </referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item><title>121 TN HD</title>
+<link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
+<item><title>124 TELEFE HD</title>
+<link>rtmp://cp129990.live.edgefcs.net/live/notidiario@190117</link></item>
+<item><title>125 TELEFE HD -OPCION 2-</title>
+<link>rtmp://wdc02.iviplanet.com/Tele-Fe/myStream.sdp</link></item> 
+
+			<item><title>126 TELEFE HD -OPCION 3-</title>
+			<link>rtmp://wdc02.iviplanet.com/Tele-Fe/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/telefe/</link></item> 
+			
+
+			<item><title>127 CANAL 13 HD</title>
+			<link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+			
+			<item><title>127 CANAL 13 HD</title>
+			<link>rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1</link></item>
+
+			
+			<item><title>128 CANAL 9</title>
+			<link>http://72.46.226.53/live01/_definst_/canal91/playlist.m3u8</link></item>
+
+			<item><title>130 Canal 7 MZDA</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/16101191/streams/live/playlist.m3u8</link></item>
+
+			<item><title>131 C5N HD</title>
+			<link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item>
+
+			<item><title>132 C5N HD - Opcion 2</title>
+			<link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
+
+			<item><title>133 C5N HD - Opcion 3</title>
+			<link>rtmp://wdc02.iviplanet.com/C5N/myStream.sdp</link></item>
+
+			<item><title>135 Canal 360</title>
+			<link>rtmp://wdc02.iviplanet.com/360TV/myStream.sdp</link></item> 
+
+			<item><title>136 Canal 11 - NO SIEMPRE ACTIVO</title>
+			<link>http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8</link></item>
+
+			<item><title>139 TV Publica HD</title>
+			<link>rtmp://wdc02.iviplanet.com/TVPublicaHD/myStream.sdp</link></item>
+
+			<item><title>140 A24</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m3u8</link></item>
+
+			<item><title>141 A24 OPCION 2</title>
+			<link>rtmp://wdc02.iviplanet.com/A24/myStream.sdp</link></item>
+
+			<item><title>142 CN23 HD</title>
+			<link>rtmp://wdc02.iviplanet.com/CN23HD/myStream.sdp</link></item>
+
+			<item>
+				<title>150 Canal 6 Digital Corrientes</title><link>rtmp://streamlky.alsolnet.com:1935/noticiasdel6/live</link>
+				<thumbnail>http://www.fotosdigitalesgratis.com/noticias/fotos/Canal6Digital-Logo.jpg</thumbnail>
+			</item>
+			
+			<item>
+				<title>152 Canal 10 Entre Rios</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link>
+				<thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail>
+			</item>
+			
+			<item>
+			<title>155 TV Publica Argentina OPCION 2</title>
+			<link>rtmp://lat2.cxnlive.com/live/ playpath=tvphd swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tvp-hd-argentina/</link>
+			</item>
+			
+			<item>
+			<title>157 TyC Sports</title>
+			<link>http://usa.fankytv.com/live/tyc.stream/playlist.m3u8</link>
+			</item>
+			 
+			<item>
+			<title>158 DEPORTV</title>
+			<link>http://$doregex[get-url]/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=$doregex[get-id]</link>
+			<regex>
+			<name>get-iframe</name>
+			<expres>iframe-page" src="([^"]*)<expres>
+			<page>http://streaming.deportv.gov.ar/</page>
+			</regex>
+			<regex>
+			<name>get-id</name>
+			<expres>m3u8\?wmsAuthSign=(.*?)'<expres>
+			<page>$doregex[get-iframe]</page>
+			<referer>http://streaming.deportv.gov.ar/</referer>
+			</regex>
+			<regex>
+			<name>get-url</name>
+			<expres>rtspLinkA' href='rtsp:\/\/(.*?)\/DXTV<expres>
+			<page>$doregex[get-iframe]</page>
+			<referer>http://streaming.deportv.gov.ar/</referer>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>159 Directv</title>
+			<link>rtmp://$doregex[rtmpip]/live playpath=osopanda?id=18232 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv live=1 timeout=20</link>
+			<regex>
+			<name>rtmpip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.janjua.tv:1935/loadbalancer?osopanda</page>
+			<referer>http://www.janjua.tv/resources/scripts/eplayer.swf</referer>
+			</regex>
+			</item>
+			<item>
+			<title>000 DeporTV</title>
+			<link>rtmp://fl04.iviplanet.com/DeporTV playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/argentina/deportv</link>
+			</item>
+			<item>
+			<title>000 TyC Sports</title>
+			<link>rtmp://sl100tb.cxnlive.com/live/tyc.stream</link>
+			</item>
+			
+			<item>
+			<title>000 DeporTV</title>
+			<link>rtmp://sl100tb.cxnlive.com:1935/live playpath=deportv.stream swfUrl=http://player.longtailvideo.com/player5.3.swf live=1 pageUrl=http://www.tv-envivo.com.ar/2013/03/deportv-en-vivo.html</link>
+			</item>
+			
+			<title>000 Fox Sports</title>
+			<link>rtmpe://cdn.castup.tv:80/redirect playpath=26?74E9X swfUrl=http://www.castup.tv/player/plr.swf live=1 pageUrl=http://www.castup.tv/embed_2.php?channel=26?74E9X&vw=468&vh=360 token=#@8x12pX@!x@# timeout=15</link>
+			</item>
+			<item>
+			<title>TLF</title>
+			<link>http://token-lh.akamaihd.net/i/Telefe_1@123611/index_1_av-p.m3u8</link>
+			</item>
+			<item><title>TELEFE HD</title> <link>rtmp://sl100tb.cxnlive.com/live/telefe.stream</link></item>
+			<item><title>EL TRECE HD: </title> <link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+			<item><title>AMERICA TV HD: </title> <link>rtmp://sl100tb.cxnlive.com/live/america.stream</link></item> 
+			<item><title>CANAL 9 HD: </title> <link>rtmp://sl100tb.cxnlive.com/live/canal9.stream</link></item> 
+			<item><title>TV PUBLICA HD:</title> <link>rtmp://sl100tb.cxnlive.com/live/tvpublica.stream</link></item> 
+			<item><title>TyC Sports HD:</title> <link>rtmp://sl100tb.cxnlive.com/live/tyc.stream</link></item> 
+			<item><title>TN HD: </title> <link>rtsp://stream.tn.com.ar/live/tnhd1</link></item> 
+			<item><title>C5N: </title> <link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item> 
+			<item><title>Canal 26 HD: </title> <link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link></item> 
+			<item><title>Deportv hd: </title> <link>http://wdc02.iviplanet.com:1935/DeporTV/myStream.sdp/playlist.m3u8</link></item> 
+			<item><title>ESPN + : </title> <link>http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8</link></item>
+			<item><title>Magazine TV: </title> <link>rtsp://stream.mgzn.tv/live/mgzntv/mgzntv</link></item> 
+			<item><title>History: </title> <link>http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8</link></item> 
+			<item><title>Boomerang (canal infantil): </title> <link>http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8</link></item> 
+			<item><title>Discovery kids: </title> <link>http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8</link></item> 
+			<item><title>Q Musica: </title> <link>mms://streamqm.uigc.net/qmusica</link></item> 
+			
+			
+			<item>
+			<title>[COLOR lime]Argentinisima[/COLOR]<title>
+			<link>mms://transmisionargtv.com.ar:8207/</link>
+			<thumbnail>http://www.argentinisimatv.com.ar/templates/template_argtv/images/logo_argtv.gif</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Kiss TV[/COLOR]<title>
+			<link>rtmp://tst.es.flash.glb.ipercast.net/ app=tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.sintelevisor.com/tv/canales/kisstv.php live=true timeout=15</link>
+			<thumbnail>http://www.sintelevisor.com/tv/imagenes/kisstv.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]El Rural[/COLOR]<title>
+			<link>rtmp://streamrural.cmd.com.ar/ app=liverural/crural playpath=rural1 swfUrl=http://www.elrural.com/sites/default/files/jwplayermodule/player/player.swf pageUrl=http://www.elrural.com/canal_rural/vivo live=true timeout=15</link>
+			<thumbnail>http://www.elrural.com/sites/default/files/elrural_favicon.png</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Fashion TV HD[/COLOR]<title>
+			<link>rtmp://stream.fashiontvla.com/ app=liveftv/ftv playpath=ftv2 swfUrl=http://fashiontvla.com/sites/all/modules/custom/nota_video/player.swf pageUrl=http://fashiontvla.com/vivo live=true timeout=15</link>
+			<thumbnail>http://www.sintelevisor.com/tv/imagenes/ftv.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Magazine TV[/COLOR]<title>
+			<link>rtmp://stream.mgzn.tv/live/ app=mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf pageUrl=http://www.mgzn.tv/ live=true timeout=15</link>
+			<thumbnail>http://www.magazinetv.com/sites/default/files/styles/logo_mgzn/public/logo-mgzn_0.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Cine Canal[/COLOR]<title>
+			<link>rtmp://109.123.126.34/live playpath=space3014?id=71935 conn=S:OK swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf pageUrl=http://www.ucaster.eu/embedded/space3014/1/600/385 live=true timeout=15</link>
+			<thumbnail>http://www.sintelevisor.com/tv/imagenes/cinecanal.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]TV Pública[/COLOR]<title>
+			<link>http://ffahds-lh.akamaihd.net/z/c7hds_3@7396/manifest.f4m</link>
+			<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Telefe HD[/COLOR]<title>
+			<link>http://token-lh.akamaihd.net/i/Telefe_1@123611/index_1_av-p.m3u8</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telefe.png</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Canal 13[/COLOR]<title>
+			<link>rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo</link>
+			<thumbnail>http://www.impulsonegocios.com/resources/produccion/contenidos/medium/pais/eltrecehd150511.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]America TV[/COLOR]<title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WL0K91T5bDw</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/america_ar.png</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]Canal 9[/COLOR]<title>
+			<link>http://token-lh.akamaihd.net/i/Canal9_1@123610/index_1_av-p.m3u8</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal9_ar.png</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]C5N[/COLOR]<title>
+			<link>rtmp://c5n.stweb.tv:1935/c5n playpath=live swfUrl=http://c5n.minutouno.com/js/c5n/jwplayer/player.swf??autostart=true&amp;file=live&amp;streamer=rtmp://c5n.stweb.tv:1935/c5n&amp;rtmp.subscribe=true&amp;autoplay=true&amp;autostart=true&amp;allowscriptaccess=always&amp;&amp;logo.linktarget=_blank&amp;logo.position=top-left&amp;logo.hide=false&amp;skin=nacht.zip&amp;autostart=true&amp;repeat=always&amp;stretching=exactfit&amp;volume=50 live=true timeout=15 pageUrl=http://c5n.minutouno.com/js/c5n/jwplayer/player.swf??autostart=true&amp;file=live&amp;streamer=rtmp://c5n.stweb.tv:1935/c5n&amp;rtmp.subscribe=true&amp;autoplay=true&amp;autostart=true&amp;allowscriptaccess=always&amp;&amp;logo.linktarget=_blank&amp;logo.position=top-left&amp;logo.hide=false&amp;skin=nacht.zip&amp;autostart=true&amp;repeat=always&amp;stretching=exactfit&amp;volume=50</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/c5n.png</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]TN Noticias[/COLOR]<title>
+			<link>rtmp://stream.tn.com.ar/live playpath=tnhd2 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf pageUrl=http://tn.com.ar/envivo/24hs live=true timeout=15</link>
+			<thumbnail>http://www.grupoclarin.com/en/sites/default/files/logo_tn_0_0.jpg</thumbnail>
+			</item>
+
+			<item>
+			<title>[COLOR lime]TYC Sports HD[/COLOR]<title>
+			<link>rtmp://sl100tb.cxnlive.com:1935/live/ playpath=tyc.stream swfUrl=http://player.longtailvideo.com/player5.3.swf pageUrl=http://www.tv-envivo.com.ar/2011/01/tyc-sports-en-vivo.html live=true timeout=15</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png</thumbnail>
+			</item>
+
+
+			<item>
+			<title>[COLOR lime]DirecTV[/COLOR]<title>
+			<link>rtmp://37.48.93.39/live playpath=combateperu?id=216672 conn=S:OK swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/combateperu/1/600/385 live=true timeout=15</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/directv_lam_sports.png</thumbnail>
+			</item>
+
+			
+		
+			
+			
+            </items>	
+       
+ <!--   </channel>
+-->
+    
+	
+	</channels>
+    
+  

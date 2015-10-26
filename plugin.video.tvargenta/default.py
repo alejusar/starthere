@@ -133,7 +133,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "https://raw.githubusercontent.com/alejusar/starthere/master/plugin.video.tvargenta/listargenta.xml", "fanart": "http://i.imgur.com/CqPclGg.jpg"}]
+SOURCES = [{"url": "https://raw.githubusercontent.com/alejusar/starthere/master/plugin.video.tvargenta/menu.xml", "fanart": "http://i.imgur.com/CqPclGg.jpg"}]
 
 
 

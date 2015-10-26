@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<items>
+<items_info> <!-- this is opitonal -->
+      <title>TV Argenta </title> 
+      <genre>Live TV</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail>
+      <fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+      <date>13.02.2015</date>
+      <credits>adryan</credits>
+ </items_info>
+	
+	
+	
+		
+	
+<item>
+<title>            [COLOR white]Donaciones por [COLOR skyblue]PayPal:[/COLOR] [COLOR white]adrian.bu@gmail.com[/COLOR][/COLOR]</title>
+<link>http://adrian.kodistream.info/adryan/in.xml</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+</item>	
+
+
+<item>
+<title>                             [COLOR skyblue][B]PRUEBA ARGENTV [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]</title>
+<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>                     [COLOR deepskyblue]   update: [COLOR yellow]24[/COLOR] • Octubre • 2015[/COLOR]      </title>
+<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] *</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Stalker   [/COLOR] [COLOR skyblue][Nescafe] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/nescafe.xml</externallink>
+</item>
+
+<!---->
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR skyblue][Server 01] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/total.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR skyblue][Solo Disponibes en Mexico] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][ TotalPlay 2 ] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV+   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/stalker001.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] TV Argentina[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alejusar/starthere/master/plugin.video.tvargenta/lista.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internaciones[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/inter.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mas Listas Amigas[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
+</item>
+
+
+
+</items>
+
+
