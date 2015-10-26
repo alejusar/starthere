@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
+
     <channels_info> <!-- this is opitonal -->
       <title>TVArgenta</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>Television</genre>
@@ -18,15 +19,13 @@
     <name>          Argentina</name>
     <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail>
     <fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
-        <items>
+    
+    <items>
                 
-			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
+<!--			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
+-->
 			
-			
-
-			
-			
-			<item><info>TV Argentina</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
+<item><info>TV Argentina</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link></item>
 <item><info>TV Argentina</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link></item>
 <item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link></item>
 <item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
@@ -57,8 +56,7 @@
 <item><info>TV Argentina</info><title>[COLOR skyblue]CANAL RURAL 2 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link></item>
 <item><info>TV Argentina</info><title>[COLOR skyblue]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link></item>
 
-
-			<item><title>Argentina: America TV</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
+<item><title>Argentina: America TV</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
 <item><title>Argentina: America TV HD </title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
 <item><title>Argentina: Canal 4 HD </title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
 <item><title>Argentina: Canal 9 Bio Bio HD 720</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link></item>
@@ -68,29 +66,24 @@
 <item><title>Argentina: TELEFE HD</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link></item>
 <item><title>Argentina: Telpin Canal 2 HD Pinamar</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link></item>
 <item><title>Argentina: TV PUBLICA HD</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link></item>
-			
-			
-			
-			<item>
-			<title>120 AMERICA TV</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
-			<regex>
-			<name>path</name>
-			<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
-			<page>http://www.ustream.tv/channel/17916695</page>
-			<referer> </referer>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			<item><title>121 TN HD</title>
-			<link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
+<item>
+	<title>120 AMERICA TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/17916695</page>
+<referer> </referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item><title>121 TN HD</title>
+<link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
+<item><title>124 TELEFE HD</title>
+<link>rtmp://cp129990.live.edgefcs.net/live/notidiario@190117</link></item>
+<item><title>125 TELEFE HD -OPCION 2-</title>
+<link>rtmp://wdc02.iviplanet.com/Tele-Fe/myStream.sdp</link></item> 
 
-			<item><title>124 TELEFE HD</title>
-			<link>rtmp://cp129990.live.edgefcs.net/live/notidiario@190117</link></item>
-
-			<item><title>125 TELEFE HD -OPCION 2-</title>
-			<link>rtmp://wdc02.iviplanet.com/Tele-Fe/myStream.sdp</link></item> 
-			
 			<item><title>126 TELEFE HD -OPCION 3-</title>
 			<link>rtmp://wdc02.iviplanet.com/Tele-Fe/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/telefe/</link></item> 
 			
