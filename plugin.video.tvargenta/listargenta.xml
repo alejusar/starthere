@@ -10,7 +10,7 @@
       <fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
       <date>13.02.2015</date>
       <credits>adryan</credits>
-    </items_info>
+ </items_info>
 	
 	
 	
@@ -108,9 +108,9 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] TV Argentina[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/paises.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alejusar/starthere/master/plugin.video.tvargenta/tvargenta.xml</externallink>
 </item>
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internaciones[/COLOR] </title>
