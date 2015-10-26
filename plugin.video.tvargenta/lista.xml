@@ -15,11 +15,11 @@
 	
 	
 	
-<!--      <channel>
-    <name>          Argentina</name>
-    <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail>
-    <fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
--->
+ <channel>
+	    <name>          Argentina</name>
+	    <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail>
+	    <fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+
     
     <items>
                 
@@ -318,8 +318,8 @@
 			
             </items>	
        
- <!--   </channel>
--->
+</channel>
+
     
 	
 	</channels>
