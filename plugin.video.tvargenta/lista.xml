@@ -75,18 +75,18 @@
 <item><info>TV Argentina</info><title>[COLOR skyblue]CANAL RURAL 2 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link></item>
 <item><info>TV Argentina</info><title>[COLOR skyblue]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link></item>
 
-<item><title>[COLOR skyblue]Argentina: America TV</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: America TV HD </title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: Canal 4 HD </title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
-<item><title>[COLOR skyblue]Argentina: Canal 9 Bio Bio HD 720</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: CANAL 26 HD</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: EL TRECE </title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: El Trece HD </title><link>http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: TELEFE HD</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link></item>
-<item><title>[COLOR skyblue]Argentina: Telpin Canal 2 HD Pinamar</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link></item>
-<item><title>[COLOR skyblue]Argentina: TV PUBLICA HD</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: America TV[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: America TV HD [/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: Canal 4 HD [/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link></item>
+<item><title>[COLOR skyblue]Argentina: Canal 9 Bio Bio HD 720[/COLOR]</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: CANAL 26 HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: EL TRECE [/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: El Trece HD [/COLOR]</title><link>http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: TELEFE HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link></item>
+<item><title>[COLOR skyblue]Argentina: Telpin Canal 2 HD Pinamar[/COLOR]</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link></item>
+<item><title>[COLOR skyblue]Argentina: TV PUBLICA HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link></item>
 <item>
-	<title>[COLOR skyblue]120 AMERICA TV</title>
+	<title>[COLOR skyblue]120 AMERICA TV[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
 <regex>
 <name>path</name>
@@ -96,79 +96,79 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-<item><title>[COLOR skyblue]121 TN HD</title>
+<item><title>[COLOR skyblue]121 TN HD[/COLOR]</title>
 <link>rtsp://stream.tn.com.ar/live/tnmovil2</link></item>
-<item><title>[COLOR skyblue]124 TELEFE HD</title>
+<item><title>[COLOR skyblue]124 TELEFE HD[/COLOR]</title>
 <link>rtmp://cp129990.live.edgefcs.net/live/notidiario@190117</link></item>
-<item><title>[COLOR skyblue]125 TELEFE HD -OPCION 2-</title>
+<item><title>[COLOR skyblue]125 TELEFE HD -OPCION 2-[/COLOR]</title>
 <link>rtmp://wdc02.iviplanet.com/Tele-Fe/myStream.sdp</link></item> 
 
-			<item><title>[COLOR skyblue]126 TELEFE HD -OPCION 3-</title>
+			<item><title>[COLOR skyblue]126 TELEFE HD -OPCION 3-[/COLOR]</title>
 			<link>rtmp://wdc02.iviplanet.com/Tele-Fe/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/telefe/</link></item> 
 			
 
-			<item><title>[COLOR skyblue]127 CANAL 13 HD</title>
+			<item><title>[COLOR skyblue]127 CANAL 13 HD[/COLOR]</title>
 			<link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
 			
-			<item><title>[COLOR skyblue]127 CANAL 13 HD</title>
+			<item><title>[COLOR skyblue]127 CANAL 13 HD[/COLOR]</title>
 			<link>rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1</link></item>
 
 			
-			<item><title>[COLOR skyblue]128 CANAL 9</title>
+			<item><title>[COLOR skyblue]128 CANAL 9[/COLOR]</title>
 			<link>http://72.46.226.53/live01/_definst_/canal91/playlist.m3u8</link></item>
 
-			<item><title>[COLOR skyblue]130 Canal 7 MZDA</title>
+			<item><title>[COLOR skyblue]130 Canal 7 MZDA[/COLOR]</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/16101191/streams/live/playlist.m3u8</link></item>
 
-			<item><title>[COLOR skyblue]131 C5N HD</title>
+			<item><title>[COLOR skyblue]131 C5N HD[/COLOR]</title>
 			<link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item>
 
-			<item><title>[COLOR skyblue]132 C5N HD - Opcion 2</title>
+			<item><title>[COLOR skyblue]132 C5N HD - Opcion 2[/COLOR]</title>
 			<link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link></item>
 
-			<item><title>[COLOR skyblue]133 C5N HD - Opcion 3</title>
+			<item><title>[COLOR skyblue]133 C5N HD - Opcion 3[/COLOR]</title>
 			<link>rtmp://wdc02.iviplanet.com/C5N/myStream.sdp</link></item>
 
-			<item><title>[COLOR skyblue]135 Canal 360</title>
+			<item><title>[COLOR skyblue]135 Canal 360[/COLOR]</title>
 			<link>rtmp://wdc02.iviplanet.com/360TV/myStream.sdp</link></item> 
 
-			<item><title>[COLOR skyblue]136 Canal 11 - NO SIEMPRE ACTIVO</title>
+			<item><title>[COLOR skyblue]136 Canal 11 - NO SIEMPRE ACTIVO[/COLOR]</title>
 			<link>http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8</link></item>
 
-			<item><title>[COLOR skyblue]139 TV Publica HD</title>
+			<item><title>[COLOR skyblue]139 TV Publica HD[/COLOR]</title>
 			<link>rtmp://wdc02.iviplanet.com/TVPublicaHD/myStream.sdp</link></item>
 
-			<item><title>[COLOR skyblue]140 A24</title>
+			<item><title>[COLOR skyblue]140 A24[/COLOR]</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m3u8</link></item>
 
-			<item><title>[COLOR skyblue]141 A24 OPCION 2</title>
+			<item><title>[COLOR skyblue]141 A24 OPCION 2[/COLOR]</title>
 			<link>rtmp://wdc02.iviplanet.com/A24/myStream.sdp</link></item>
 
-			<item><title>[COLOR skyblue]142 CN23 HD</title>
+			<item><title>[COLOR skyblue]142 CN23 HD[/COLOR]</title>
 			<link>rtmp://wdc02.iviplanet.com/CN23HD/myStream.sdp</link></item>
 
 			<item>
-				<title>[COLOR skyblue]150 Canal 6 Digital Corrientes</title><link>rtmp://streamlky.alsolnet.com:1935/noticiasdel6/live</link>
+				<title>[COLOR skyblue]150 Canal 6 Digital Corrientes[/COLOR]</title><link>rtmp://streamlky.alsolnet.com:1935/noticiasdel6/live</link>
 				<thumbnail>http://www.fotosdigitalesgratis.com/noticias/fotos/Canal6Digital-Logo.jpg</thumbnail>
 			</item>
 			
 			<item>
-				<title>[COLOR skyblue]152 Canal 10 Entre Rios</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link>
+				<title>[COLOR skyblue]152 Canal 10 Entre Rios[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link>
 				<thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail>
 			</item>
 			
 			<item>
-			<title>[COLOR skyblue]155 TV Publica Argentina OPCION 2</title>
+			<title>[COLOR skyblue]155 TV Publica Argentina OPCION 2[/COLOR]</title>
 			<link>rtmp://lat2.cxnlive.com/live/ playpath=tvphd swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/tvp-hd-argentina/</link>
 			</item>
 			
 			<item>
-			<title>[COLOR skyblue]157 TyC Sports</title>
+			<title>[COLOR skyblue]157 TyC Sports[/COLOR]</title>
 			<link>http://usa.fankytv.com/live/tyc.stream/playlist.m3u8</link>
 			</item>
 			 
 			<item>
-			<title>[COLOR skyblue]158 DEPORTV</title>
+			<title>[COLOR skyblue]158 DEPORTV[/COLOR]</title>
 			<link>http://$doregex[get-url]/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=$doregex[get-id]</link>
 			<regex>
 			<name>get-iframe</name>
@@ -191,7 +191,7 @@
 			
 			
 			<item>
-			<title>[COLOR skyblue]159 Directv</title>
+			<title>[COLOR skyblue]159 Directv[/COLOR]</title>
 			<link>rtmp://$doregex[rtmpip]/live playpath=osopanda?id=18232 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv live=1 timeout=20</link>
 			<regex>
 			<name>rtmpip</name>
@@ -201,42 +201,42 @@
 			</regex>
 			</item>
 			<item>
-			<title>[COLOR skyblue]000 DeporTV</title>
+			<title>[COLOR skyblue]000 DeporTV[/COLOR]</title>
 			<link>rtmp://fl04.iviplanet.com/DeporTV playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/argentina/deportv</link>
 			</item>
 			<item>
-			<title>[COLOR skyblue]000 TyC Sports</title>
+			<title>[COLOR skyblue]000 TyC Sports[/COLOR]</title>
 			<link>rtmp://sl100tb.cxnlive.com/live/tyc.stream</link>
 			</item>
 			
 			<item>
-			<title>[COLOR skyblue]000 DeporTV</title>
+			<title>[COLOR skyblue]000 DeporTV[/COLOR]</title>
 			<link>rtmp://sl100tb.cxnlive.com:1935/live playpath=deportv.stream swfUrl=http://player.longtailvideo.com/player5.3.swf live=1 pageUrl=http://www.tv-envivo.com.ar/2013/03/deportv-en-vivo.html</link>
 			</item>
 			
-			<title>[COLOR skyblue]000 Fox Sports</title>
+			<title>[COLOR skyblue]000 Fox Sports[/COLOR]</title>
 			<link>rtmpe://cdn.castup.tv:80/redirect playpath=26?74E9X swfUrl=http://www.castup.tv/player/plr.swf live=1 pageUrl=http://www.castup.tv/embed_2.php?channel=26?74E9X&vw=468&vh=360 token=#@8x12pX@!x@# timeout=15</link>
 			</item>
 			<item>
-			<title>[COLOR skyblue]TLF</title>
+			<title>[COLOR skyblue]TLF[/COLOR]</title>
 			<link>http://token-lh.akamaihd.net/i/Telefe_1@123611/index_1_av-p.m3u8</link>
 			</item>
-			<item><title>[COLOR skyblue]TELEFE HD</title> <link>rtmp://sl100tb.cxnlive.com/live/telefe.stream</link></item>
-			<item><title>[COLOR skyblue]EL TRECE HD: </title> <link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
-			<item><title>[COLOR skyblue]AMERICA TV HD: </title> <link>rtmp://sl100tb.cxnlive.com/live/america.stream</link></item> 
-			<item><title>[COLOR skyblue]CANAL 9 HD: </title> <link>rtmp://sl100tb.cxnlive.com/live/canal9.stream</link></item> 
-			<item><title>[COLOR skyblue]TV PUBLICA HD:</title> <link>rtmp://sl100tb.cxnlive.com/live/tvpublica.stream</link></item> 
-			<item><title>[COLOR skyblue]TyC Sports HD:</title> <link>rtmp://sl100tb.cxnlive.com/live/tyc.stream</link></item> 
-			<item><title>[COLOR skyblue]TN HD: </title> <link>rtsp://stream.tn.com.ar/live/tnhd1</link></item> 
-			<item><title>[COLOR skyblue]C5N: </title> <link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item> 
-			<item><title>[COLOR skyblue]Canal 26 HD: </title> <link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link></item> 
-			<item><title>[COLOR skyblue]Deportv hd: </title> <link>http://wdc02.iviplanet.com:1935/DeporTV/myStream.sdp/playlist.m3u8</link></item> 
-			<item><title>[COLOR skyblue]ESPN + : </title> <link>http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8</link></item>
-			<item><title>[COLOR skyblue]Magazine TV: </title> <link>rtsp://stream.mgzn.tv/live/mgzntv/mgzntv</link></item> 
-			<item><title>[COLOR skyblue]History: </title> <link>http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8</link></item> 
-			<item><title>[COLOR skyblue]Boomerang (canal infantil): </title> <link>http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8</link></item> 
-			<item><title>[COLOR skyblue]Discovery kids: </title> <link>http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8</link></item> 
-			<item><title>[COLOR skyblue]Q Musica: </title> <link>mms://streamqm.uigc.net/qmusica</link></item> 
+			<item><title>[COLOR skyblue]TELEFE HD[/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/telefe.stream</link></item>
+			<item><title>[COLOR skyblue]EL TRECE HD: [/COLOR]</title> <link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link></item>
+			<item><title>[COLOR skyblue]AMERICA TV HD: [/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/america.stream</link></item> 
+			<item><title>[COLOR skyblue]CANAL 9 HD: [/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/canal9.stream</link></item> 
+			<item><title>[COLOR skyblue]TV PUBLICA HD:[/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/tvpublica.stream</link></item> 
+			<item><title>[COLOR skyblue]TyC Sports HD:[/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/tyc.stream</link></item> 
+			<item><title>[COLOR skyblue]TN HD: [/COLOR]</title> <link>rtsp://stream.tn.com.ar/live/tnhd1</link></item> 
+			<item><title>[COLOR skyblue]C5N: [/COLOR]</title> <link>http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8</link></item> 
+			<item><title>[COLOR skyblue]Canal 26 HD: [/COLOR]</title> <link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link></item> 
+			<item><title>[COLOR skyblue]Deportv hd: [/COLOR]</title> <link>http://wdc02.iviplanet.com:1935/DeporTV/myStream.sdp/playlist.m3u8</link></item> 
+			<item><title>[COLOR skyblue]ESPN + : [/COLOR]</title> <link>http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8</link></item>
+			<item><title>[COLOR skyblue]Magazine TV: [/COLOR]</title> <link>rtsp://stream.mgzn.tv/live/mgzntv/mgzntv</link></item> 
+			<item><title>[COLOR skyblue]History: [/COLOR]</title> <link>http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8</link></item> 
+			<item><title>[COLOR skyblue]Boomerang (canal infantil): [/COLOR]</title> <link>http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8</link></item> 
+			<item><title>[COLOR skyblue]Discovery kids: [/COLOR]</title> <link>http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8</link></item> 
+			<item><title>[COLOR skyblue]Q Musica: [/COLOR]</title> <link>mms://streamqm.uigc.net/qmusica</link></item> 
 			
 			
 			<item>
