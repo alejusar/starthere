@@ -43,22 +43,21 @@
 <item><info>TV Argentina</info><title>[COLOR skyblue]TV PUBLICA SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-180/playlist.m3u8</link><thumbnail>http://s20.postimg.org/5iwydypkt/image.jpg </thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]America TV[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/5nriw5i4d/america.jpg </thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]America TV HD 720[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link><thumbnail>http://s20.postimg.org/3xrbx0b25/images_q_tbn_ANd9_Gc_Si5h_T6x28_LRMXK8_SVY3_FK11_KFPXWe.jpg </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]TeLeFe SD HQ[/COLOR]</title><link>http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 2 Misiones[/COLOR]</title><link>http://190.57.237.214/live/canal.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 29 Ensenada[/COLOR]</title><link>rtmp://panel.dattalive.com/8008/8008</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 Esquel[/COLOR]</title><link>rtmp://streamlky.alsolnet.com/canal4/live</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 HD 720 Jujuy[/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 7 Jujuy mms[/COLOR]</title><link>mms://200.43.187.111/canal7</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 79 San Juan[/COLOR]</title><link>rtmp://painel.serveron.com.br:1935/8162/8162</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Parana[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Salta[/COLOR]</title><link>http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8</link><thumbnail> </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]TeLeFe SD HQ[/COLOR]</title><link>http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/no9ws0p31/logo_telefe.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 2 Misiones[/COLOR]</title><link>http://190.57.237.214/live/canal.m3u8</link><thumbnail>http://s20.postimg.org/qly5dlywt/canal210.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 29 Ensenada[/COLOR]</title><link>rtmp://panel.dattalive.com/8008/8008</link><thumbnail>http://s20.postimg.org/7t8i4syd9/ar_c29_ensenada.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 Esquel[/COLOR]</title><link>rtmp://streamlky.alsolnet.com/canal4/live</link><thumbnail>http://s20.postimg.org/60102qnst/ar_c4esquel.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 4 HD 720 Jujuy[/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link><thumbnail>http://s20.postimg.org/5lzo353p9/ar_c4_jujuy.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 7 Jujuy mms[/COLOR]</title><link>mms://200.43.187.111/canal7</link><thumbnail> http://s20.postimg.org/z5hjbd799/canal7jujuy.png</thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 79 San Juan[/COLOR]</title><link>rtmp://painel.serveron.com.br:1935/8162/8162</link><thumbnail> http://s20.postimg.org/bfs3mo8vx/canal_79_mdp.jpg</thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Parana[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link><thumbnail> http://s20.postimg.org/bh21g3app/canal_9_litoral.jpg</thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]Canal 9 Salta[/COLOR]</title><link>http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8</link><thumbnail> http://s20.postimg.org/iljup4hz1/Canal9_Salta_Logo_300x300.jpg</thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal Rural 1 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]CANAL RURAL 2 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link><thumbnail>http://s20.postimg.org/deh53muwt/ecotv_sinfotos.jpg </thumbnail></item> 
 
 <item><title>[COLOR skyblue]Argentina: America TV[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/5nriw5i4d/america.jpg </thumbnail></item> 
 <item><title>[COLOR skyblue]Argentina: America TV HD [/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8</link><thumbnail>http://s20.postimg.org/3xrbx0b25/images_q_tbn_ANd9_Gc_Si5h_T6x28_LRMXK8_SVY3_FK11_KFPXWe.jpg  </thumbnail></item> 
-<item><title>[COLOR skyblue]Argentina: Canal 4 HD [/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link><thumbnail> </thumbnail></item> 
 <item><title>[COLOR skyblue]Argentina: Canal 9 Bio Bio HD 720[/COLOR]</title><link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8</link><thumbnail> </thumbnail></item> 
 <item><title>[COLOR skyblue]Argentina: CANAL 26 HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link><thumbnail> </thumbnail></item> 
 <item><title>[COLOR skyblue]Argentina: EL TRECE [/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link><thumbnail> </thumbnail></item> 
