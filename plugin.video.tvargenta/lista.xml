@@ -25,18 +25,18 @@
 <!--			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link><thumbnail> </thumbnail></item> 
 -->
 			
-<item><info>TV Argentina</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]C5N[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]C5N (2)[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue] A24[/COLOR]</title><link>http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8</link><thumbnail> </thumbnail></item> 
-<item><info>TV Argentina</info><title>[COLOR skyblue]360TV[/COLOR]</title><link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link><thumbnail> </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link><thumbnail>http://s20.postimg.org/3w7qsqdix/LOGO_TN.png </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link><thumbnail>http://s20.postimg.org/l9mmlby7x/sml_gallery_1164_2_99423.png </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link><thumbnail>http://s20.postimg.org/3jpzxeqyl/El_Trece_HD2012.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/3jpzxeqyl/El_Trece_HD2012.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]EL TRECE SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8</link><thumbnail>http://s20.postimg.org/lkzhkcpa5/logo_canal_13.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]C5N[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link><thumbnail>http://s20.postimg.org/5kbhl4gsd/C5_N1.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]C5N (2)[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link><thumbnail>http://s20.postimg.org/5kbhl4gsd/C5_N1.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link><thumbnail> http://s20.postimg.org/xfbtvqcxp/Logo_canal_26.jpg</thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link><thumbnail> http://s20.postimg.org/xfbtvqcxp/Logo_canal_26.jpg</thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]CANAL 26 SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link><thumbnail>http://s20.postimg.org/6k1sgtvy5/289120_60288_original.jpg </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue] A24[/COLOR]</title><link>http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item> 
+<item><info>TV Argentina</info><title>[COLOR skyblue]360TV[/COLOR]</title><link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link><thumbnail> http://s20.postimg.org/lrmtyau4d/8_SOz_Ftn_L.png</thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]Canal Rural[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1</link><thumbnail> </thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]CNN en español[/COLOR]</title><link>http://187.247.255.139/Apple/CNNEspanol1200.m3u8</link><thumbnail> </thumbnail></item> 
 <item><info>TV Argentina</info><title>[COLOR skyblue]ARG TV PUBLICA HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link><thumbnail> </thumbnail></item> 
