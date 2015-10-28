@@ -26,7 +26,7 @@
 -->
 			
 			<item><info>NACIONALES</info><title>[COLOR skyblue]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link><thumbnail>http://s20.postimg.org/l9mmlby7x/sml_gallery_1164_2_99423.png</thumbnail></item> 
-			<item><info>NACIONALES</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link><thumbnail>http://s20.postimg.org/3w7qsqdix/LOGO_TN.png  </thumbnail></item> 
+			<item><info>NACIONALES</info><title>[COLOR skyblue]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link><thumbnail>http://s20.postimg.org/3w7qsqdix/LOGO_TN.png</thumbnail></item> 
 			<item><info>NACIONALES</info><title>[COLOR skyblue]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link><thumbnail>http://s20.postimg.org/3jpzxeqyl/El_Trece_HD2012.jpg </thumbnail></item> 
 			<item><info>NACIONALES</info><title>[COLOR skyblue]EL TRECE HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/3jpzxeqyl/El_Trece_HD2012.jpg </thumbnail></item> 
 			<item><info>NACIONALES</info><title>[COLOR skyblue]EL TRECE SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8</link><thumbnail>http://s20.postimg.org/lkzhkcpa5/logo_canal_13.jpg </thumbnail></item> 
