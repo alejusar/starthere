@@ -37,7 +37,11 @@
 </item>
 
 
-
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] TV Argentina[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/alejusar/starthere/master/plugin.video.tvargenta/tvargenta.xml</externallink>
+</item>
 
 
 
@@ -107,11 +111,7 @@
 <externallink>http://adrian.kodistream.info/adryan/stalker001.m3u</externallink>
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] TV Argentina[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/alejusar/starthere/master/plugin.video.tvargenta/tvargenta.xml</externallink>
-</item>
+
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internaciones[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
